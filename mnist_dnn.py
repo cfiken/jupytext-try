@@ -62,7 +62,7 @@ test_labels = mnist.test.labels
 # constant
 
 num_inputs = 784  # 28*28
-num_units = 256
+num_units = 128
 num_outputs = 10
 num_layers = 1
 batch_size = 64
